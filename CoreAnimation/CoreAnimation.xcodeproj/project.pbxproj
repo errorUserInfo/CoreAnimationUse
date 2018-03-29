@@ -275,6 +275,7 @@
 			isa = PBXGroup;
 			children = (
 				672A6AA5206BEA6600DE1FF3 /* YYImage */,
+				672A6AA3206BE7E700DE1FF3 /* Tool */,
 				672A6A7A206BE7B000DE1FF3 /* Masonry */,
 				672A6A76206BE77900DE1FF3 /* Catogery */,
 				672A6AA4206BE81300DE1FF3 /* THPrefixHeader.pch */,
